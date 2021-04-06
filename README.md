@@ -20,7 +20,7 @@
 ## Population more than 30 milion
 <img src="https://i.ibb.co/4fjpSqJ/population.png"  height="400"> 
 
-## Countinent Page
+## Continent Page
 <img src="https://i.ibb.co/YNP6sVz/Continet-Page.png"  height="400"> 
 
 ## Countries in Europa
@@ -47,7 +47,7 @@
 <img src="https://i.ibb.co/XCxWHGC/australia.png"  height="400"> 
 <img src="https://i.ibb.co/3CRpdc5/australia2.png"  height="400">
 
-## Countries in About Us
+## About Us
 <img src="https://i.ibb.co/HgPMs9k/aboutUs.png"  height="400"> 
 
 
